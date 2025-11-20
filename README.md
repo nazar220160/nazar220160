@@ -27,7 +27,3 @@
 
 * **Telegram (личный):** **[@nazar_fedorowych](https://t.me/nazar_fedorowych)**
 * **Сайт компании:** **[DigitalFlow](http://digital-flow.me)**
-
-<p align="center">
-    **Спасибо за визит!**
-</p>
